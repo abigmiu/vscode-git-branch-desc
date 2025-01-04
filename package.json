@@ -2,7 +2,7 @@
   "name": "git-branch-desc",
   "displayName": "git-branch-desc",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "suraelax",
   "repository": {
     "type": "git",
@@ -24,7 +24,7 @@
         {
           "id": "gitBranchNotes",
           "title": "Git 分支注释",
-          "icon": "src/assets/icon.svg"
+          "icon": "assets/icon.svg"
         }
       ]
     },
@@ -33,7 +33,7 @@
         {
           "id": "gitBranchNotes",
           "name": "Git 分支注释",
-          "icon": "src/assets/icon.svg"
+          "icon": "assets/icon.svg"
         }
       ]
     },
